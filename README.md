@@ -13,7 +13,8 @@
 - cheongju/index.html — 청주 눈썹문신
 - bokdae/index.html — 복대동 눈썹문신
 - gangseo/index.html — 강서동 눈썹문신
-- assets/ — 사진, 지도 캡처 (하위 페이지는 ../assets/ 로 참조)
+- assets/ — 사진, 지도 캡처
+- sitemap.xml / robots.txt / feed.xml — 색인 제출용 (하위 페이지는 ../assets/ 로 참조)
 
 ## GitHub + Cloudflare Pages 배포
 

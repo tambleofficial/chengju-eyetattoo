@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>벨르뮤 청주본점 눈썹문신 기록</title>
+    <link>https://chengju-eyetattoo.pages.dev/</link>
+    <description>청주 · 가경동 · 복대동 · 강서동 눈썹문신 후기와 시술 기록</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 16 Sep 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="https://chengju-eyetattoo.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>가경동 눈썹문신 | 벨르뮤 청주본점 자연결 후기</title>
+      <link>https://chengju-eyetattoo.pages.dev/</link>
+      <guid isPermaLink="true">https://chengju-eyetattoo.pages.dev/</guid>
+      <description>청주 가경동 눈썹문신, 벨르뮤 청주본점에서 자연결로 받은 실제 후기. 상담부터 시술, 4주 리터치까지 사진으로 기록했습니다.</description>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>청주 눈썹문신 | 벨르뮤 청주본점 자연결 후기</title>
+      <link>https://chengju-eyetattoo.pages.dev/cheongju/</link>
+      <guid isPermaLink="true">https://chengju-eyetattoo.pages.dev/cheongju/</guid>
+      <description>청주 눈썹문신 후기. 얼굴형에 맞춰 자연결로 받은 과정을 사진과 함께 정리했습니다.</description>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>복대동 눈썹문신 | 벨르뮤 청주본점 자연결 후기</title>
+      <link>https://chengju-eyetattoo.pages.dev/bokdae/</link>
+      <guid isPermaLink="true">https://chengju-eyetattoo.pages.dev/bokdae/</guid>
+      <description>복대동에서 다녀온 눈썹문신 후기. 상담과 시술 과정을 사진으로 남겼습니다.</description>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>강서동 눈썹문신 | 벨르뮤 청주본점 자연결 후기</title>
+      <link>https://chengju-eyetattoo.pages.dev/gangseo/</link>
+      <guid isPermaLink="true">https://chengju-eyetattoo.pages.dev/gangseo/</guid>
+      <description>강서동 눈썹문신 후기. 앞머리는 연하게, 결을 살려 받은 자연결 눈썹 기록입니다.</description>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
