@@ -3,17 +3,17 @@
 배포 주소: https://chengju-eyetattoo.pages.dev
 
 - https://chengju-eyetattoo.pages.dev/ — 가경동
-- https://chengju-eyetattoo.pages.dev/cheongju.html — 청주
-- https://chengju-eyetattoo.pages.dev/bokdae.html — 복대동
-- https://chengju-eyetattoo.pages.dev/gangseo.html — 강서동
+- https://chengju-eyetattoo.pages.dev/cheongju/ — 청주
+- https://chengju-eyetattoo.pages.dev/bokdae/ — 복대동
+- https://chengju-eyetattoo.pages.dev/gangseo/ — 강서동
 
 정적 HTML 4개. 빌드 과정 없음.
 
-- index.html — 가경동 눈썹문신
-- cheongju.html — 청주 눈썹문신
-- bokdae.html — 복대동 눈썹문신
-- gangseo.html — 강서동 눈썹문신
-- assets/ — 사진, 지도 캡처
+- index.html — 가경동 눈썹문신 (루트)
+- cheongju/index.html — 청주 눈썹문신
+- bokdae/index.html — 복대동 눈썹문신
+- gangseo/index.html — 강서동 눈썹문신
+- assets/ — 사진, 지도 캡처 (하위 페이지는 ../assets/ 로 참조)
 
 ## GitHub + Cloudflare Pages 배포
 
