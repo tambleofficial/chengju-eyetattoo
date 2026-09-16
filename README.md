@@ -1,5 +1,12 @@
 # 벨르뮤 눈썹문신 랜딩 페이지
 
+배포 주소: https://chengju-eyetattoo.pages.dev
+
+- https://chengju-eyetattoo.pages.dev/ — 가경동
+- https://chengju-eyetattoo.pages.dev/cheongju.html — 청주
+- https://chengju-eyetattoo.pages.dev/bokdae.html — 복대동
+- https://chengju-eyetattoo.pages.dev/gangseo.html — 강서동
+
 정적 HTML 4개. 빌드 과정 없음.
 
 - index.html — 가경동 눈썹문신

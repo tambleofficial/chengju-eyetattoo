@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://chengju-eyetattoo.pages.dev/sitemap.xml
