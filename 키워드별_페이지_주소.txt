@@ -1,0 +1,22 @@
+벨르뮤 청주본점 키워드별 페이지 (업데이트: 2026-10-22)
+
+주의: 새 주소는 ZIP 파일을 GitHub/Cloudflare Pages에 배포한 후 열립니다.
+
+전체 목록: https://chengju-eyetattoo.pages.dev/topics/
+
+청주미인점 → https://chengju-eyetattoo.pages.dev/cheongju-beauty-mark/
+청주눈썹 → https://chengju-eyetattoo.pages.dev/cheongju-eyebrow/
+청주눈썹컨설팅 → https://chengju-eyetattoo.pages.dev/cheongju-eyebrow-consulting/
+청주눈썹문신잘하는곳 → https://chengju-eyetattoo.pages.dev/cheongju-eyebrow-recommendation/
+청주눈썹반영구 → https://chengju-eyetattoo.pages.dev/cheongju-eyebrow-semi/
+청주눈썹문신 → https://chengju-eyetattoo.pages.dev/cheongju-eyebrow-tattoo/
+청주아이라인 → https://chengju-eyetattoo.pages.dev/cheongju-eyeliner/
+청주아이라인반영구 → https://chengju-eyetattoo.pages.dev/cheongju-eyeliner-semi/
+청주아이라인문신 → https://chengju-eyetattoo.pages.dev/cheongju-eyeliner-tattoo/
+청주헤어라인 → https://chengju-eyetattoo.pages.dev/cheongju-hairline/
+청주헤어라인반영구 → https://chengju-eyetattoo.pages.dev/cheongju-hairline-semi/
+청주헤어라인문신 → https://chengju-eyetattoo.pages.dev/cheongju-hairline-tattoo/
+청주입술반영구 → https://chengju-eyetattoo.pages.dev/cheongju-lip-semi/
+청주입술문신 → https://chengju-eyetattoo.pages.dev/cheongju-lip-tattoo/
+청주남자눈썹문신 → https://chengju-eyetattoo.pages.dev/cheongju-mens-eyebrow-tattoo/
+청주자연눈썹 → https://chengju-eyetattoo.pages.dev/cheongju-natural-eyebrow/
